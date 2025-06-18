@@ -24,5 +24,14 @@ To provide insights for decision-makers to:
   - Pivot Table (Calculations)
   - Dashboard (Final Visuals)
 
+## 📸 Dashboard Preview
+[Dashboard] [Coffee Dashboard](https://github.com/user-attachments/assets/e7f42b2a-5dbe-42fe-9425-546644e9daf7)
+
+
+ 
+## 🔗 Connect
+[LinkedIn] https://www.linkedin.com/in/ayushi-singh-9259b5244/
+
+
 ## 🪪 License:
 This project is licensed under the MIT License.
